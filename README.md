@@ -37,7 +37,11 @@ npm run dev
 ### Get Latest Stats
 GET `/api/stats?coin=bitcoin`
 GET `https://koinx-bpyk.onrender.com/api/stats?coin=bitcoin`
+![image](https://github.com/user-attachments/assets/d0b157c8-0747-497c-814b-532587446823)
+
 
 ### Get Price Deviation
 GET `/api/deviation?coin=bitcoin`
 GET `https://koinx-bpyk.onrender.com/api/deviation?coin=bitcoin`
+![image](https://github.com/user-attachments/assets/f5aed1fc-435b-4c9a-baed-68fa8f56d076)
+
