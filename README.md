@@ -36,6 +36,8 @@ npm run dev
 
 ### Get Latest Stats
 GET `/api/stats?coin=bitcoin`
+GET `https://koinx-bpyk.onrender.com/api/stats?coin=bitcoin`
 
 ### Get Price Deviation
 GET `/api/deviation?coin=bitcoin`
+GET `https://koinx-bpyk.onrender.com/api/deviation?coin=bitcoin`
